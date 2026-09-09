@@ -30,6 +30,6 @@ Navegue pelas pastas do repositório para inspecionar os exemplos práticos de c
   ## Links Rápidos para Auditoria Visualização Páginas Web
 * [Página Web Corrigida](https://aashayodha.github.io/Acessibilidade_Cognitiva/pagina_web_corrigida.html)
 * [Página Web de Teste (Original)](https://aashayodha.github.io/Acessibilidade_Cognitiva/pagina_web_teste.html)
-* [Relatório de Auditoria (IA)](https://aashayodha.github.io/Acessibilidade_Cognitiva/relatorio_auditoria_ia.md)
-* [Relatório de Auditoria (Depois)](https://aashayodha.github.io/Acessibilidade_Cognitiva/relatorio_auditoria_depois.md)
 
+## Link Relatório de Auditoria de Originalidade e Plágio
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14i8g_A3N8hbtjzTmbYNqHjEJdELe2E3R?usp=sharing)

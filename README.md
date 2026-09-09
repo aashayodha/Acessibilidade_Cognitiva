@@ -21,3 +21,8 @@ Blocos de comandos executáveis para inspeção estática por IA.
 Como Utilizar
 Navegue pelas pastas do repositório para inspecionar os exemplos práticos de código antes e depois da refatoração voltada à inclusão digital e à gestão da carga cognitiva.
 
+## Links Rápidos para Auditoria
+* [Página Web Corrigida](pagina_web_corrigida.html)
+* [Página Web de Teste (Original)](pagina_web_teste.html)
+* [Relatório de Auditoria (IA)](relatorio_auditoria_ia.html)
+* [Relatório de Auditoria (Depois)](relatorio_auditoria_depois.html)
